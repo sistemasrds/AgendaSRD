@@ -1,5 +1,5 @@
-﻿using CorporateAgenda.Models;
-using CorporateAgenda.Services;
+﻿using AgendaSRD.Models;
+using AgendaSRD.Services;
 using System.ComponentModel.DataAnnotations;
 
 class Program

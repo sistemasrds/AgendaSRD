@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CorporateAgenda.Models;
+namespace AgendaSRD.Models;
 public class Evento
 {
     public string Id { get; }

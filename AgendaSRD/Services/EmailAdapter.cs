@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CorporateAgenda.Services;
+namespace AgendaSRD.Services;
 
 
    public class EmailAdapter : NotificacionService

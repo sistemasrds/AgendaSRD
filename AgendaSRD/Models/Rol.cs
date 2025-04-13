@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CorporateAgenda.Models;
+namespace AgendaSRD.Models;
 
 public class Rol
 {

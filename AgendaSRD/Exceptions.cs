@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CorporateAgenda.Exceptions;
+namespace AgendaSRD.Exceptions;
 
 public class AgendaException : Exception
 {

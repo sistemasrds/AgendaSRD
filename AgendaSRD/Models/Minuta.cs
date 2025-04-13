@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CorporateAgenda.Models;
+using AgendaSRD.Models;
 
-namespace CorporateAgenda.Models;
+namespace AgendaSRD.Models;
 
 public class Minuta
 {
